@@ -1,6 +1,6 @@
 ### Hello there 👋🏻
 
-I'm a freelance full stack developer helping business build modern, stable, and performant websites and applications. I have a Bachelor's degree in Computer Science and 20+ years of experience, but still need to Google simple things :) 
+I'm a freelance full stack developer helping businesses build modern, stable, and performant websites and applications. I have a Bachelor's degree in Computer Science and 20+ years of experience, but still need to Google simple things :) 
 
 ## Tools I use in my everyday work 
 
